@@ -1,0 +1,31 @@
+.li {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: 13vh;
+  width: 20vh;
+  background-color: transparent;
+  margin-right: 100px;
+  margin-bottom: 20px;
+}
+
+.img-btn {
+  background-color: transparent;
+  height: auto;
+  width: auto;
+  border-width: 0px;
+}
+
+.logo-img {
+  height: 100%;
+  width: 60px;
+  background-size: cover;
+  margin-right: 9px;
+}
+
+.name {
+  color: #1e293b;
+  font-size: 16px;
+  font-weight: 500;
+}

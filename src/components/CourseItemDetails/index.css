@@ -1,0 +1,94 @@
+.loader {
+  height: 100%;
+  width: 100%;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fail-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  background-color: transparent;
+}
+
+.fail-img {
+  height: 55vh;
+  width: 55vh;
+  background-size: cover;
+}
+
+.fail-head {
+  color: #475569;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.fail-p {
+  color: #64748b;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.fail-btn {
+  background-color: #4656a1;
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 500;
+  height: 30px;
+  width: 120px;
+  border-width: 0px;
+}
+
+.d {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+  background-color: transparent;
+  width: 80%;
+}
+
+.image {
+  height: 70vh;
+  width: 45%;
+  background-size: cover;
+}
+
+.c {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left: 24px;
+}
+
+.n {
+  color: black;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.des {
+  color: #475569;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%;
+}
+
+.div {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
